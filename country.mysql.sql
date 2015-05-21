@@ -1,8 +1,8 @@
 /*!
- * @package   23y4d/Country-Code-arabic
+ * @package   23y4d/Country-list-arabic
  * @author    Zeyad Besiso <zeyad.besiso@gmail.com>
- * @license   https://github.com/23y4d/Country-Code-arabic/blob/master/LICENSE
- * @link      https://github.com/23y4d/Country-Code-arabic
+ * @license   https://github.com/23y4d/Country-list-arabic/blob/master/LICENSE
+ * @link      https://github.com/23y4d/Country-list-arabic
  */
 CREATE TABLE country (id VARCHAR(2) NOT NULL, name VARCHAR(64) NOT NULL, PRIMARY KEY(id)) DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci ENGINE = InnoDB;
 
