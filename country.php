@@ -2,8 +2,8 @@
 /*!
  * @package   23y4d/Country-Code-arabic
  * @author    Zeyad Besiso <zeyad.besiso@gmail.com>
- * @license   https://github.com/23y4d/Country-Code-arabic/blob/master/LICENSE
- * @link      https://github.com/23y4d/Country-Code-arabic
+ * @license   https://github.com/23y4d/Country-list-arabic/blob/master/LICENSE
+ * @link      https://github.com/23y4d/Country-list-arabic
  */
 return array(
 
