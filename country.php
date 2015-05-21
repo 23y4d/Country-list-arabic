@@ -1,6 +1,6 @@
 <?php
 /*!
- * @package   23y4d/Country-Code-arabic
+ * @package   23y4d/Country-list-arabic
  * @author    Zeyad Besiso <zeyad.besiso@gmail.com>
  * @license   https://github.com/23y4d/Country-list-arabic/blob/master/LICENSE
  * @link      https://github.com/23y4d/Country-list-arabic
