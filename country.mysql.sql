@@ -252,3 +252,5 @@ INSERT INTO `country` (`id`, `name`) VALUES ('HT', 'هايتي');
 INSERT INTO `country` (`id`, `name`) VALUES ('HN', 'هندوراس');
 INSERT INTO `country` (`id`, `name`) VALUES ('NL', 'هولندا');
 INSERT INTO `country` (`id`, `name`) VALUES ('HK', 'هونج كونج الصينية');
+INSERT INTO `country` (`id`, `name`) VALUES ('SS','جنوب_السودان');
+INSERT INTO `country` (`id`, `name`) VALUES ('XK', 'كوسوفو');

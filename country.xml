@@ -992,5 +992,12 @@
       <code>HK</code>
       <name>هونج كونج الصينية</name>
    </country>
+     <country>
+      <code>SS</code>
+      <name>جنوب_السودان</name>
+   </country>
+     <country>
+      <code>XK</code>
+      <name>كوسوفو</name>
+   </country>
 </countries>
-

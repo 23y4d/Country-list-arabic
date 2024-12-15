@@ -5,8 +5,8 @@
  * @license   https://github.com/23y4d/Country-list-arabic/blob/master/LICENSE
  * @link      https://github.com/23y4d/Country-list-arabic
  */
-return array(
 
+return [
   'AW' => 'آروبا',
   'AZ' => 'أذربيجان',
   'AM' => 'أرمينيا',
@@ -253,4 +253,6 @@ return array(
   'HN' => 'هندوراس',
   'NL' => 'هولندا',
   'HK' => 'هونج كونج الصينية',
-);
+  'SS' => 'جنوب_السودان',
+  'XK' => 'كوسوفو',
+];
